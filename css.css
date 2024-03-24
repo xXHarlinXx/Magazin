@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0; 
+}
+html{
+     width: 100%;
+    height: 100%;
+}
+body{
+    height: 100%;
+    font-size: 50px;
+    color:rgb(166, 255, 0);
+}
+
+.navi{
+
+    align-content: center;
+    background: linear-gradient(rgb(18, 14, 248),#3f0202)
+}
+.navi>ul{
+    display:inline-block;
+}
+.navi>ul>li{
+    display:inline-block;
+    padding-left: 30px;
+}
+.navi>ul>li>a{
+    text-decoration: none;
+    color: rgb(132, 226, 37);
+    display:inline-block;
+}
+#main-text{
+    color:rgb(206, 5, 5); ;
+}
+
+.navi>ul>li>a:hover{
+    color: rgb(206, 5, 5);
+
+}
+.main{
+  background-color: #3f0202 ;
+}
+p{
+    display: block;
+    text-align: center;
+}
+.xit{
+    align-content: center;
+    text-align: center;
+}
+.col1{
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 30px;
+    width: 400px;
+}
+    .col2{
+        display: inline-block;
+    margin-left: 50px;
+    margin-top: 30px;
+    width: 400px;
+    }
+    .col3{
+        display: inline-block;
+    margin-left: 50px;
+    margin-top: 30px;
+    width: 400px;
+    height: 400px;
+    }
+    .col4{
+        display: inline-block;
+    margin-left: 50px;
+    margin-top: 30px;
+    width: 400px;
+    }
+.text-img{
+    margin-top: 20px;
+}
+.product{
+    text-align: center;
+}
+.card{
+    display:inline-block;
+    margin-right:50px;
+    margin-left: 50px;
+}
+.prod-img{
+    align-content: center;
+    margin-top: 100px;
+    width: 300px;
+    height: 200px;
+}
+.hoder{
+    width: 100%;
+    height: 30%;
+      background: linear-gradient(#3f0202,rgb(18, 14, 248))
+}
+
